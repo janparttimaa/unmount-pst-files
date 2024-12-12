@@ -3,6 +3,7 @@
     Unmount PST-files from Microsoft Outlook Classic
 
 .DESCRIPTION
+    Unmounts PST-files silently from user's Outlook Classic -application.
     This PowerShell-script is forked from original VBS-script provided by Diane Poremsky. 
     This script have been converted to PowerShell-format because Microsoft is deprecating VBScript.
     Script run will happens per user context.
