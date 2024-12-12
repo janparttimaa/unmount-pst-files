@@ -1,4 +1,4 @@
-# Unmount PST-files
+# Unmount PST-files for Microsoft Outlook Classic
 
 This PowerShell-script is forked from original VBS-script provided by [Diane Poremsky](https://www.slipstick.com/exchange/script-remove-pst-file-profile/). This script have been converted to PowerShell-format because [Microsoft is deprecating VBScript](https://techcommunity.microsoft.com/blog/windows-itpro-blog/vbscript-deprecation-timelines-and-next-steps/4148301).
 
