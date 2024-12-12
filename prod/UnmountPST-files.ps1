@@ -12,8 +12,8 @@
     1.0.0
 
 .AUTHOR
-    Converted to PowerShell: Jan Parttimaa (https://github.com/janparttimaa/apple-devices)
-    Original script and author: Diane Poremsky (https://www.slipstick.com/exchange/script-remove-pst-file-profile/)
+    Converted to PowerShell: 2024 Jan Parttimaa (https://github.com/janparttimaa/apple-devices)
+    Original script and author: 2018 Diane Poremsky (https://www.slipstick.com/exchange/script-remove-pst-file-profile/)
 
 .COPYRIGHT
     © 2018-2024 Diane Poremsky & Jan Parttimaa. All rights reserved.
