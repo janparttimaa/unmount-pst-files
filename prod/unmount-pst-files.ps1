@@ -10,7 +10,7 @@
     NOTE: This scripts have prerequirements that needs to be applied before deploying this script. Please check instructions from GitHub.
 
 .VERSION
-    1.0.0
+    1.0.1
 
 .AUTHOR
     Converted to PowerShell: 2024 Jan Parttimaa (https://github.com/janparttimaa/apple-devices)
@@ -25,9 +25,10 @@
 
 .RELEASE NOTES
     1.0.0 - Initial release for PowerShell-format.
+    1.0.1 - New file name.
 
 .EXAMPLE
-    powershell.exe -ExecutionPolicy Bypass -File .\UnmountPST-files.ps1
+    powershell.exe -ExecutionPolicy Bypass -File .\unmount-pst-files.ps1
 
     This example is how to run this script running Windows PowerShell. Command needs to be run without admin rights on user context.
 #>
