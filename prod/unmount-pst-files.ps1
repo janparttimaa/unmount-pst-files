@@ -13,11 +13,11 @@
     1.0.1
 
 .AUTHOR
-    Converted to PowerShell: 2024 Jan Parttimaa (https://github.com/janparttimaa/apple-devices)
+    Converted to PowerShell: 2024 Jan Parttimaa (https://github.com/janparttimaa/unmount-pst-files)
     Original script and author: 2018 Diane Poremsky (https://www.slipstick.com/exchange/script-remove-pst-file-profile/)
 
 .COPYRIGHT
-    Â© 2018-2024 Diane Poremsky & Jan Parttimaa. All rights reserved.
+    © 2018-2025 Diane Poremsky & Jan Parttimaa. All rights reserved.
 
 .LICENSE
     This script is licensed under the MIT License.
@@ -29,7 +29,6 @@
 
 .EXAMPLE
     powershell.exe -ExecutionPolicy Bypass -File .\unmount-pst-files.ps1
-
     This example is how to run this script running Windows PowerShell. Command needs to be run without admin rights on user context.
 #>
 
